@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vBbVF0C59CySmhROsXLahKhHrWDDay0J4OYf89gp7WO/onM6WKcW9BCp3AvOc7SHXuuWORDPP26Vwae8rVtvbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lntinfotech\\Documents\\DotNet\\DotNetCLIWalk\\DotNetCLIWalk.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lntinfotech\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
